@@ -1,0 +1,136 @@
+.top{
+	display:flex;
+	background-color:#D3D4D6;
+	justify-content:flex-end;
+}
+.item{
+	background-color:#F0E3E7;
+	width:100px;
+	height:30px;
+}
+.line{
+	background-color:black;
+	border:1px solid #DC392D;
+	width:1600px;
+}
+.wrap{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:white;
+	padding-top:10px;
+	justify-content:flex-end;
+	flex-direction:row;
+}
+.rows1{
+	background-color:blue;
+	width:50px;
+	height:30px;
+	margin:20px;
+	padding-right:20px;
+}
+.box{
+	display:flex;
+	background-color:#6A5338;
+	justify-content:flex-evenly;
+	flex-direction:row;
+	height:150px;
+	padding:50px;
+}
+.empty{
+	background-color:gray;		
+	height:50px;
+	width:100px;
+	margin:200px;
+}
+.right{
+	background-color:white;
+	display:flex;
+	justify-content:flex-end;
+	margin-top:80px;
+}
+.column{
+    background-color:#DDDBDC;
+	height:120px;
+    width:600px;	
+}
+.line1{
+	background-color:#3E5577;
+	border:5px solid #3E5577;
+	width:1600px;
+}
+.container{
+	display:flex;
+	background-color:#F6F7F6;
+	justify-content:space-evenly;
+	width:1500px;
+	height:100px;
+	margin-top:20px;
+}
+.flex{
+	background-color:#5FCF80;
+	width:100px;
+	height:50px;
+	margin-top:20px;
+}
+.row1{
+	background-color:white;
+	display:flex;
+	justify-content:flex-end;
+	margin-top:30px;
+}
+.column1{
+    background-color:gray;
+	height:300px;
+    width:760px;	
+}
+.row2{
+	background-color:white;
+	display:flex;
+	justify-content:flex-start;
+}
+.column2{
+    background-color:gray;
+	height:300px;
+    width:760px;
+}
+.row3{
+	background-color:white;
+	display:flex;
+	justify-content:flex-end;
+}
+.column3{
+    background-color:gray;
+	height:300px;
+    width:760px;
+}
+.row4{
+	background-color:white;
+	display:flex;
+	justify-content:flex-start;
+}
+.column4{
+    background-color:gray;
+	height:300px;
+    width:760px;
+}
+.search{
+	background-color:#1C2A40;
+	display:flex;
+	justify-content:center;
+	flex-direction:row;
+	margin-top:50px;
+	height:200px;
+	width:1600px;
+}
+.layout{
+	background-color:gray;
+	width:200px;
+	height:50px;
+	margin-top:80px;
+}
+.symbol{
+	background-color:#0D42FF;
+	width:100px;
+	height:50px;
+	margin-top:80px;
+}
